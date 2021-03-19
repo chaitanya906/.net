@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ConsoleApplication1, Configuration: Debug Any CPU ------
+1>c:\users\y19ca19\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Program.cs(19,13,19,17): error CS0246: The type or namespace name 'demo' could not be found (are you missing a using directive or an assembly reference?)
+1>c:\users\y19ca19\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Program.cs(19,29,19,33): error CS0246: The type or namespace name 'demo' could not be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
